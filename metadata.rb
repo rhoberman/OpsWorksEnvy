@@ -1,2 +1,2 @@
-name "opsworksenvy"
+name "opsworks_envy"
 depends "python"
